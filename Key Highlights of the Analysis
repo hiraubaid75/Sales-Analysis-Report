@@ -1,0 +1,20 @@
+Key Highlights of the Analysis:
+•	Profitability Analysis: Identified total profit by category and sub-category.
+•	Product-Level Insights: Analyzed total sales for each product and determined the product with the highest sales per unit using calculated columns.
+•	Customer Insights:
+o	Counted unique customers in the dataset.
+o	Built a pivot table showing sales by customers and highlighted the Top 3 customers with the highest purchases.
+o	Measured customer distribution across Consumer, Corporate, and Home Office segments.
+•	Regional & Market Insights:
+o	Discovered which city recorded the highest sales.
+o	Compared sales across regions and categories using pivot tables.
+o	Calculated the percentage contribution of each region to overall sales.
+o	Measured average sales value per order in each region.
+•	Shipping Analysis: Determined the most common shipping mode used by customers.
+•	Revenue Drivers:
+o	Highlighted orders with sales above the average using conditional formatting.
+o	Created a detailed table for the Top 5 Order IDs showing category-wise contributions.
+•	Sales Ranges: Used COUNTIFS to segment orders into sales ranges (e.g., <$100, $100–$200, >$1,000, etc.) for better understanding of purchasing patterns.
+•	Interactive Reporting: Designed pivot charts with slicers to filter sales by Region and Ship Mode for dynamic analysis.
+Tools Used: Microsoft Excel (Formulas, Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, INDEX-MATCH, COUNTIFS, SUMIF, FILTER).
+
